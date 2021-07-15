@@ -2,6 +2,6 @@
 
 Olá! Bem vindo ao meu livro de receitas :cookie:
 
-- Estrogonofe de frango
-- Pavê
-- Bolo de cenoura 
+- Estrogonoffe de frango
+- Bolo de goiaba 
+- Bolo de leite  
