@@ -2,7 +2,6 @@
 
 Olá! Bem vindo ao meu livro de receitas :cookie:
 
-<<<<<<< HEAD
 - Estrogonofe de frango
 - Pavê
 - Bolo de cenoura 
